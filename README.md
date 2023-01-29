@@ -38,7 +38,20 @@ ademibowale/ademibowale is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<br>
 
+<i>A curated list of awesome Github Profile READMEs</i>
+
+<a href="https://github.com/ademibowale/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://https://github.com/ademibowale/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://https://github.com/ademibowale/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://https://github.com/ademibowale/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/ademibowale/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://https://github.com/ademibowale/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
+
+</div>
 
 ![02-feature-how-to-become-freelancer](https://user-images.githubusercontent.com/92458236/190349729-7ef8154e-8ef4-41a6-ac81-a5d19017574a.png)
 ![github image](https://user-images.githubusercontent.com/92458236/190349796-f9988f8b-b3ec-476e-9602-dc9f019bddc8.gif)

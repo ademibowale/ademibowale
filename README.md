@@ -9,6 +9,8 @@
 - [ ] 📫 How to reach me: [ademibowaleadegboye@gmail.com]
 - [ ] ⚡ Fun fact: Dance, Sing, Game
 
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
@@ -158,3 +160,8 @@ You can click the Preview link to take a look at your changes.
 
 ![02-feature-how-to-become-freelancer](https://user-images.githubusercontent.com/92458236/190349729-7ef8154e-8ef4-41a6-ac81-a5d19017574a.png)
 ![github image](https://user-images.githubusercontent.com/92458236/190349796-f9988f8b-b3ec-476e-9602-dc9f019bddc8.gif)
+
+
+
+![Ademibowale's GitHub stats](https://github-readme-stats.vercel.app/api?username=ademibowale&theme=dark&show_icons=true)
+```

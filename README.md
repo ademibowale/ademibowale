@@ -1,9 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ademibowaleadegboyemonsur&color=green)
 
-
-![Software Developere ](https://user-images.githubusercontent.com/92458236/215317939-4c3e3154-cf16-4254-a0a2-26260ea398aa.gif)
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="230"/>
 
 
@@ -103,9 +100,7 @@ const Ademibowale = {
 </a>
 </p>
 
-<p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
+![Software Developere ](https://user-images.githubusercontent.com/92458236/215317939-4c3e3154-cf16-4254-a0a2-26260ea398aa.gif)
 
 ---
 

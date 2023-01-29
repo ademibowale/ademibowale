@@ -144,10 +144,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <br>
 </p>       
-<!---
-ademibowale/ademibowale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 <a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
 <br>
@@ -162,9 +159,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://https://github.com/ademibowale/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 
-</div>
 
-![02-feature-how-to-become-freelancer](https://user-images.githubusercontent.com/92458236/190349729-7ef8154e-8ef4-41a6-ac81-a5d19017574a.png)
+
 ![github image](https://user-images.githubusercontent.com/92458236/190349796-f9988f8b-b3ec-476e-9602-dc9f019bddc8.gif)
 
 

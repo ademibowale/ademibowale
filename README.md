@@ -14,7 +14,9 @@ Skills: NodeJs/ REACT / JS / HTML / CSS/VUE/Ruby on Rails
 - [ ] 📫 How to reach me: [ademibowaleadegboye@gmail.com]
 - [ ] ⚡ Fun fact: Dance, Sing, Game
 
-
+<p align="center">
+  <img src="https:https://ademibowale-professional-portfolio.netlify.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <br>
 
 <hr>

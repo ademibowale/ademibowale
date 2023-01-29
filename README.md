@@ -44,17 +44,7 @@
 ![Software Developere ](https://user-images.githubusercontent.com/92458236/215317939-4c3e3154-cf16-4254-a0a2-26260ea398aa.gif)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="230"/>
-
-
  
-
-- [ ] 🔭 I’m currently working on Microverse Program
-- [ ] 🌱 I’m currently learning to become a professional web developer
-- [ ] 👯 I’m looking to collaborate on Community Projects
-- [ ] 🤔 I’m looking for help with others friends
-- [ ] 💬 Ask me about everything you want in professional life
-- [ ] 📫 How to reach me: [ademibowaleadegboye@gmail.com]
-- [ ] ⚡ Fun fact: Dance, Sing, Game
 
 # 💫About Me :
 
@@ -122,10 +112,9 @@ current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
     "Diploma's in Accounting and Finance",
   ]
-company: Microvers
+company: Microverse
 
 fields_of_interests:
   [
@@ -133,7 +122,7 @@ fields_of_interests:
     "React Native",
     "Javascript",
     "Data Science",
-    "Pythone",
+    "Python",
     "UI/UX",
     "Game Development",
     "DevOps",
